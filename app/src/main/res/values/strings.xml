@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyFacebook</string>
+    <string name="facebook_app_id">2247571081976326</string>
+    <string name="facebook_login_protocol_scheme">fb2247571081976326</string>
+
+    <string name="followers_hint">Followers</string>
+    <string name="following_hint">Following</string>
+
+    <string name="search_query_hint">Enter user name</string>
+    <string name="search_hint">search</string>
+    <string name="not_enough_symbols_msg">Please enter at least one symbol</string>
+    <string name="loading_error_msg">Error during loading info</string>
+    <string name="fa_map_marker">\uf041</string>
+    <string name="fa_heart_o">\uf08a</string>
+    <string name="fa_retweet">\uf079</string>
+    <string name="ion_search"></string>
+</resources>
